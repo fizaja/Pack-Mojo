@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"name": "Tailwind",
+			"path": "../../../../Tailwind"
+		},
+		{
+			"name": "htmlcss",
+			"path": "../../../../htmlcss"
+		},
+		{
+			"name": "css",
+			"path": "../../../../css"
+		},
+		{
+			"path": "../../.."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Pack Mojo"
+	}
+}
